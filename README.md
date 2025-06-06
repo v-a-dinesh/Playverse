@@ -36,13 +36,7 @@
 
 👉 [View Web App]()
 
-<!-- Only works in markdown renderers that support HTML -->
-<h3>🎥 Live Demo</h3>
-<video width="100%" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1gMMEOnxnyx3RFZ0WDUdxyQYTvKX_1NO_" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-
+🎥 [Screencast Demo Video](https://drive.google.com/file/d/1gMMEOnxnyx3RFZ0WDUdxyQYTvKX_1NO_/view?usp=drive_link)
 
 ---
 ## 🖼️ Screenshots
