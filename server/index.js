@@ -15,7 +15,7 @@ dotenv.config();
 // Fix 1: Set up CORS before other middlewares
 const corsConfig = {
     credentials: true,
-    origin: 'http://localhost:3000','https://playverse-kappa.vercel.app' // Be specific in production
+    origin: ['http://localhost:3000', 'https://playverse-kappa.vercel.app'], // Fixed: array of origins
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization']
 };
