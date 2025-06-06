@@ -36,7 +36,13 @@
 
 👉 [View Web App]()
 
-🎥 [Screencast Demo](https://drive.google.com/file/d/1gMMEOnxnyx3RFZ0WDUdxyQYTvKX_1NO_/view?usp=drive_link)
+<!-- Only works in markdown renderers that support HTML -->
+<h3>🎥 Live Demo</h3>
+<video width="100%" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1gMMEOnxnyx3RFZ0WDUdxyQYTvKX_1NO_" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 ## 🖼️ Screenshots
@@ -373,3 +379,4 @@ If you encounter issues:
 ## Conclusion
 
 In conclusion, this podcast streaming application provides users with an easy-to-use platform for listening to their favorite podcasts. With features such as user authentication, podcast search, and an admin panel for creating and adding new podcasts, this application offers a comprehensive solution for podcast streaming. 
+
