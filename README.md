@@ -34,7 +34,7 @@
 ---
 ## 🌐 Live Demo
 
-👉 [View Web App]()
+👉 [View Web App](https://playverse-kappa.vercel.app/)
 
 🎥 [Screencast Demo Video](https://drive.google.com/file/d/1gMMEOnxnyx3RFZ0WDUdxyQYTvKX_1NO_/view?usp=drive_link)
 
